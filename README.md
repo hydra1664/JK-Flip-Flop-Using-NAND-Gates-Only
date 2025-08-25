@@ -32,12 +32,13 @@ Here are the captured outputs from Logisim under different input cases:
 
 | Inputs (J,K,C) | Circuit Output |
 |----------------|----------------|
-| J=0, K=0, C=1 | ![Hold] <img width="1920" height="1080" alt="J=0,K=0,C=1" src="https://github.com/user-attachments/assets/b696452d-464b-4d98-b94b-24bddbeed221" /> |
-| J=0, K=1, C=1 | ![Reset] <img width="1920" height="1080" alt="J=0,K=1,C=1" src="https://github.com/user-attachments/assets/fea97435-df0f-4d90-ac54-7a1068c3f668" /> |
-| J=1, K=0, C=1 | ![Set]<img width="1920" height="1080" alt="J=1,K=0,C=1" src="https://github.com/user-attachments/assets/83f5dcad-51e0-49fc-8243-3c17b5478a35" /> |
-| J=1, K=1, C=1 | ![Toggle]<img width="1920" height="1080" alt="J=1,K=1,C=1" src="https://github.com/user-attachments/assets/571ee43b-0685-4533-8c05-850ea775c966" />|
-| J=1, K=1, C=0 | ![Hold (clock low)]<img width="1920" height="1080" alt="J=1,K=1,C=0" src="https://github.com/user-attachments/assets/c54b7052-d65d-48a8-81b5-fc9c0aab6ace" /> |
-| J=1, K=1, C=1 (2nd toggle) | ![Toggle 2nd](Images/J=1,K=1,C=1 (2ND).png) |
+| J=0, K=0, C=1 | Hold <img width="1920" height="1080" alt="J=0,K=0,C=1" src="https://github.com/user-attachments/assets/b696452d-464b-4d98-b94b-24bddbeed221" /> |
+| J=0, K=1, C=1 | Reset <img width="1920" height="1080" alt="J=0,K=1,C=1" src="https://github.com/user-attachments/assets/fea97435-df0f-4d90-ac54-7a1068c3f668" /> |
+| J=1, K=0, C=1 | Set <img width="1920" height="1080" alt="J=1,K=0,C=1" src="https://github.com/user-attachments/assets/83f5dcad-51e0-49fc-8243-3c17b5478a35" /> |
+| J=1, K=1, C=1 | Toggle <img width="1920" height="1080" alt="J=1,K=1,C=1" src="https://github.com/user-attachments/assets/571ee43b-0685-4533-8c05-850ea775c966" /> |
+| J=1, K=1, C=0 | Hold (clock low) <img width="1920" height="1080" alt="J=1,K=1,C=0" src="https://github.com/user-attachments/assets/c54b7052-d65d-48a8-81b5-fc9c0aab6ace" /> |
+| J=1, K=1, C=1 (2nd toggle) | Toggle 2nd <img width="1920" height="1080" alt="J=1,K=1,C=1 (2ND)" src="https://github.com/user-attachments/assets/d191c820-6456-4c97-b13a-45e2210608c9" /> |
+
 
 ---
 
